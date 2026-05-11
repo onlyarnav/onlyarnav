@@ -4,7 +4,7 @@
 - Interested in Quant Finance, AI agents, ML systems, and full-stack product development.<br>
 - Building projects like AI Portfolio Manager, Job Application Tracker & ML prediction systems.<br>
 - 3× National Awardee in Science Exhibitions with experience in innovation, research-oriented thinking, and technical presentation.<br>
-- Represented India in Sakura Science Exchange Program in Japan, gaining international exposure to science & innovation.<br><br>
+- Represented India in Sakura Science Exchange Program in Japan, gaining international exposure to science & innovation.<br>
 ### Goal: become a strong AI - Machine Learning / Software Engineer capable of building high-impact engineering products.
 
 # 💻 Tech Stack:
@@ -25,7 +25,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
 
 # Software Engineering
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
