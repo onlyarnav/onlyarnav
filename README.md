@@ -27,14 +27,13 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
 ## Cloud: 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FBBC04?style=flat&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-C3F7F7?style=flat&logo=googlecloud)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-C3F7F7?style=flat&logo=azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-C3F7F7?style=flat&logo=AmazonWebServices&logoColor=white)
 
 ## Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-383838?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)<br>
@@ -42,7 +41,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## Backend & Databases 
+## Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -57,6 +56,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 
-## Artifical Intelligence / Machine Learning / Deep Learning
+## Artifical Intelligence
 ![Transformers](https://img.shields.io/badge/Transformers-666666?style=flat&logo=probot&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-666666?style=flat&logo=googlegemini&logoColor=white)
