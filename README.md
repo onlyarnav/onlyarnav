@@ -1,5 +1,5 @@
-# Arnav Purohit
-## ✨ About Me:
+# print("Hello World!")
+## ⭐ About Me:
 <br>- CS undergraduate building with AI ML, backend engineering, and scalable software systems.<br>
 - Building projects...
 - Interested in Quant Finance, AI agents, ML systems, and full-stack product development.<br>
