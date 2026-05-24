@@ -58,5 +58,5 @@
 
 
 ## Artifical Intelligence / Machine Learning / Deep Learning
-![Transformers](https://img.shields.io/badge/Transformers-63FF88?style=flat&logo=probot&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-63FF88?style=flat&logo=googlegemini&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-666666?style=flat&logo=probot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-666666?style=flat&logo=googlegemini&logoColor=white)
