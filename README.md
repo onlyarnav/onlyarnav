@@ -31,11 +31,11 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-C3F7F7?style=flat&logo=azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-C3F7F7?style=flat&logo=AmazonWebServices&logoColor=white)
 
-## Artifical Intelligence
+## Artifical Intelligence:
 ![Transformers](https://img.shields.io/badge/Transformers-666666?style=flat&logo=probot&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-666666?style=flat&logo=googlegemini&logoColor=white)
 
-## Tools & DevOps
+## Tools & DevOps:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-383838?style=flat&logo=githubactions&logoColor=white)
