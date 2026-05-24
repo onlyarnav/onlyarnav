@@ -1,8 +1,8 @@
-# Hi, I'm Arnav 👋
-## 💫 About Me:
+# Arnav Purohit
+## ✨ About Me:
 <br>- CS undergraduate building with AI ML, backend engineering, and scalable software systems.<br>
-- Interested in Quant Finance, AI agents, ML systems, and full-stack product development.<br>
 - Building projects...
+- Interested in Quant Finance, AI agents, ML systems, and full-stack product development.<br>
 - 3× National Awardee in Science Exhibitions with experience in innovation, research-oriented thinking, and technical presentation.<br>
 - Represented India in Sakura Science Exchange Program in Japan, gaining international exposure to science & innovation.<br>
 ### Goal: become a strong AI - Machine Learning / Software Engineer capable of building high-impact engineering products.
@@ -58,11 +58,11 @@
 
 
 ## Artifical Intelligence / Machine Learning / Deep Learning
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)<br>
+// ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+// ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white)
+// ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+// ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+// ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+// ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)<br>
 ![Transformers](https://img.shields.io/badge/Transformers-FF00F7?style=flat&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat&logo=googlegemini&logoColor=white)
