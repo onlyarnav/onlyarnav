@@ -9,9 +9,8 @@
 
 # 🚀 Interests
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge&logo=githubactions&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Artifical Intelligence](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=probot&logoColor=white)
 ![Quant Finance](https://img.shields.io/badge/Quant%20Finance-111827?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Artifical Intelligence](https://img.shields.io/badge/AI%20Agents-102230?style=for-the-badge&logo=probot&logoColor=white)
 
 # 💻 Tech Stack:
 ## Languages: 
@@ -34,6 +33,7 @@
 ## Artifical Intelligence:
 ![Transformers](https://img.shields.io/badge/Transformers-666666?style=flat&logo=probot&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-666666?style=flat&logo=googlegemini&logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-666666?style=flat&logo=probot&logoColor=white)
 
 ## Tools & DevOps:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
