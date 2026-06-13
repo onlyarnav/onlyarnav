@@ -26,8 +26,8 @@
 <!--- ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) --->
 
 ## Cloud: 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-C3F7F7?style=flat&logo=googlecloud)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-C3F7F7?style=flat&logo=azure&logoColor=white)
+<!--- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-C3F7F7?style=flat&logo=googlecloud)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-C3F7F7?style=flat&logo=azure&logoColor=white) --->
 ![AWS](https://img.shields.io/badge/AWS-C3F7F7?style=flat&logo=AmazonWebServices&logoColor=white)
 
 ## Artifical Intelligence:
