@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<style>
+text{font-family:monospace;font-size:20px}
+.key{fill:#c792ea}.str{fill:#98c379}.p{fill:#d4d4d4}.title{fill:#c9d1d9}
+.cursor{fill:#39ff14}
+</style>
+<rect width="900" height="430" rx="16" fill="#0d1117"/>
+<rect width="900" height="42" rx="16" fill="#161b22"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f56"/><circle cx="44" cy="21" r="6" fill="#ffbd2e"/><circle cx="64" cy="21" r="6" fill="#27c93f"/>
+<text x="95" y="27" class="title">arnav@github: ~/profile.json</text>
+<text x="40" y="80" class="p">{</text>
+<text x="60" y="115"><tspan class="key">"name"</tspan><tspan class="p">: </tspan><tspan class="str">"Arnav Purohit"</tspan></text>
+<text x="60" y="150"><tspan class="key">"building"</tspan><tspan class="p">: </tspan><tspan class="str">"Cortex"</tspan></text>
+<text x="60" y="185"><tspan class="key">"languages"</tspan><tspan class="p">: [</tspan><tspan class="str">"Python","C++","Go"</tspan><tspan class="p">]</tspan></text>
+<text x="40" y="235" class="p">}</text>
+</svg>
