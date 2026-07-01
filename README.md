@@ -37,30 +37,9 @@
 ![Artifical Intelligence](https://img.shields.io/badge/Artifical%20Intelligence-102230?style=for-the-badge&logo=probot&logoColor=white)
 ![Quant Finance](https://img.shields.io/badge/Quant%20Finance-111827?style=for-the-badge&logo=chartdotjs&logoColor=white) --->
 
-```bash
-$ whoami
-Arnav Purohit
-
-$ role
-Software Engineer
-
-$ languages
-Python • C++ • TypeScript • Go
-
-$ currently_building
-Cortex
-
-$ currently_learning
-System Design
-Kubernetes
-Cloud
-
-$ interests
-Backend Engineering
-Distributed Systems
-Artificial Intelligence
-Open Source
-```
+<p align="center">
+  <img src="terminal.svg" alt="Terminal" width="850">
+</p>
 
 # 💻 Tech Stack:
 ## Languages: 
