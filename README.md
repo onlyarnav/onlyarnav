@@ -1,6 +1,31 @@
 # print("Hello World!")
 ## ⭐ About Me:
-<br>- CS undergraduate building with AI ML, backend engineering, and scalable software systems.<br>
+
+```json
+{
+  "name": "Arnav Purohit",
+  "role": "Software Engineer",
+  "education": "B.Tech CSE",
+  "languages": [
+    "Python",
+    "C++",
+    "TypeScript"
+  ],
+  "interests": [
+    "Distributed Systems",
+    "AI",
+    "Open Source",
+    "Backend Engineering"
+  ],
+  "currentlyWorkingOn": "Cortex",
+  "currentlyLearning": [
+    "System Design",
+    "Kubernetes",
+    "LLM Engineering"
+  ]
+}
+```
+<!---<br>- CS undergraduate building with AI ML, backend engineering, and scalable software systems.<br>
 - Building projects...
 - Interested in Quant Finance, AI agents, ML systems, and full-stack product development.<br>
 - 3× National Awardee in Science Exhibitions with experience in innovation, research-oriented thinking, and technical presentation.<br>
@@ -10,7 +35,32 @@
 # 🚀 Interests
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Artifical Intelligence](https://img.shields.io/badge/Artifical%20Intelligence-102230?style=for-the-badge&logo=probot&logoColor=white)
-![Quant Finance](https://img.shields.io/badge/Quant%20Finance-111827?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Quant Finance](https://img.shields.io/badge/Quant%20Finance-111827?style=for-the-badge&logo=chartdotjs&logoColor=white) --->
+
+```bash
+$ whoami
+Arnav Purohit
+
+$ role
+Software Engineer
+
+$ languages
+Python • C++ • TypeScript • Go
+
+$ currently_building
+Cortex
+
+$ currently_learning
+System Design
+Kubernetes
+Cloud
+
+$ interests
+Backend Engineering
+Distributed Systems
+Artificial Intelligence
+Open Source
+```
 
 # 💻 Tech Stack:
 ## Languages: 
