@@ -47,13 +47,10 @@
       <text x="36" y="208" fill="#c9d1d9">Qdrant</text>
       <text x="36" y="234" fill="#c9d1d9">OpenSRE</text>
 
-      <text x="36" y="260"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> experience</tspan></text>
-      <text x="36" y="286"><tspan fill="#79c0ff">HCLTech    </tspan><tspan fill="#c9d1d9">: SWE Intern</tspan></text>
-      <text x="36" y="312"><tspan fill="#79c0ff">Gridixa    </tspan><tspan fill="#c9d1d9">: SWE Intern</tspan></text>
-
-      <text x="36" y="338"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> currently-building</tspan></text>
-      <text x="36" y="364" fill="#c9d1d9">Quant AI Platform</text>
-      <text x="36" y="390" fill="#c9d1d9">Cortex</text>
+      <!-- <text x="36" y="338"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> currently-building</tspan></text>
+      <text x="36" y="364" fill="#c9d1d9"></text>
+      <text x="36" y="364" fill="#c9d1d9"></text> 
+      -->
 
       <text x="36" y="416"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> tech-stack</tspan></text>
       <text x="36" y="442"><tspan fill="#79c0ff">AI/ML      </tspan><tspan fill="#c9d1d9">: RAGs/OKF, agentic wfs, vector db, embedding, hybrid retrieval, LLM orch</tspan></text>
@@ -70,10 +67,8 @@
       <text x="36" y="676"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> interests</tspan></text>
       <text x="36" y="702" fill="#c9d1d9">Software Engineering</text>
       <text x="36" y="728" fill="#c9d1d9">Artificial Intelligence</text>
-      <text x="36" y="754" fill="#c9d1d9">Distributed Systems</text>
       <text x="36" y="780" fill="#c9d1d9">Open Source</text>
       <text x="36" y="806" fill="#c9d1d9">Vibe Coding</text>
-      <text x="36" y="832" fill="#c9d1d9">Larping</text>
 
       <text x="36" y="858"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#c9d1d9"> </tspan></text>
       <rect x="194" y="843" width="7" height="18" fill="#7ee787">
