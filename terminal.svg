@@ -37,34 +37,34 @@
     <line x1="0" y1="50" x2="980" y2="50" stroke="#30363d" stroke-width="1"/>
 
     <g class="mono" font-size="14" xml:space="preserve">
-      <text x="36" y="78"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> name</tspan></text>
+      <text x="36" y="78"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">Macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> name</tspan></text>
       <text x="36" y="104" fill="#c9d1d9">Arnav Purohit</text>
 
-      <text x="36" y="130"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> open-source</tspan></text>
+      <text x="36" y="130"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">Macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> open-source</tspan></text>
       <text x="36" y="156" fill="#c9d1d9">Apache Airflow</text>
       <text x="36" y="182" fill="#c9d1d9">Apache Magpie</text>
       <text x="36" y="208" fill="#c9d1d9">Qdrant</text>
       <text x="36" y="234" fill="#c9d1d9">OpenSRE</text>
       
-      <text x="36" y="260"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> tech-stack</tspan></text>
+      <text x="36" y="260"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">Macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> tech-stack</tspan></text>
       <text x="36" y="286"><tspan fill="#79c0ff">AI/ML      </tspan><tspan fill="#c9d1d9">: RAGs/OKF, agentic wfs, vector db, embedding, hybrid retrieval, LLM orch</tspan></text>
       <text x="36" y="312"><tspan fill="#79c0ff">Software   </tspan><tspan fill="#c9d1d9">: backend, APIs, database, distributed sys, system design</tspan></text>
       <text x="36" y="338"><tspan fill="#79c0ff">Infra      </tspan><tspan fill="#c9d1d9">: containerization, cloud deployment (AWS · GCP · Azure), CI/CD</tspan></text>
 
-      <text x="36" y="364"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> languages</tspan></text>
+      <text x="36" y="364"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">Macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> languages</tspan></text>
       <text x="36" y="390" fill="#c9d1d9">Python</text>
       <text x="36" y="416" fill="#c9d1d9">Go</text>
       <text x="36" y="442" fill="#c9d1d9">Rust</text>
       <text x="36" y="468" fill="#c9d1d9">Java</text>
       <text x="36" y="494" fill="#c9d1d9">C++ (academics)</text>
 
-      <text x="36" y="520"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> interests</tspan></text>
+      <text x="36" y="520"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">Macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> interests</tspan></text>
       <text x="36" y="546" fill="#c9d1d9">Software Engineering</text>
       <text x="36" y="572" fill="#c9d1d9">Artificial Intelligence</text>
       <text x="36" y="598" fill="#c9d1d9">Open Source</text>
       <text x="36" y="624" fill="#c9d1d9">Vibe Coding</text>
 
-      <text x="36" y="650"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#c9d1d9"> </tspan></text>
+      <text x="36" y="650"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">Macbook-Pro</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#c9d1d9"> </tspan></text>
       <rect x="194" y="635" width="7" height="18" fill="#7ee787">
         <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="0s" repeatCount="indefinite"/>
       </rect>
