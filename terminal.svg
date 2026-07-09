@@ -1,5 +1,4 @@
 <svg width="980" height="908" viewBox="0 0 920 550" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-  <!-- terminal.svg — static macOS-style terminal for GitHub README. Pure SVG 1.1 + SMIL (cursor blink only). -->
   <defs>
     <filter id="noise">
       <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
