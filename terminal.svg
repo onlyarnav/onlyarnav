@@ -45,12 +45,7 @@
       <text x="36" y="182" fill="#c9d1d9">Apache Magpie</text>
       <text x="36" y="208" fill="#c9d1d9">Qdrant</text>
       <text x="36" y="234" fill="#c9d1d9">OpenSRE</text>
-
-      <!-- <text x="36" y="338"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> currently-building</tspan></text>
-      <text x="36" y="364" fill="#c9d1d9"></text>
-      <text x="36" y="364" fill="#c9d1d9"></text> 
-      -->
-
+      
       <text x="36" y="260"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> tech-stack</tspan></text>
       <text x="36" y="286"><tspan fill="#79c0ff">AI/ML      </tspan><tspan fill="#c9d1d9">: RAGs/OKF, agentic wfs, vector db, embedding, hybrid retrieval, LLM orch</tspan></text>
       <text x="36" y="312"><tspan fill="#79c0ff">Software   </tspan><tspan fill="#c9d1d9">: backend, APIs, database, distributed sys, system design</tspan></text>
