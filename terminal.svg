@@ -58,7 +58,7 @@
       <text x="36" y="500" fill="#c9d1d9">Cloud Infrastructure</text>
 
       <text x="36" y="528"><tspan fill="#58a6ff">arnav</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#79c0ff">macbook</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#7ee787">%</tspan><tspan fill="#e3b341"> toolkit</tspan></text>
-      <text x="36" y="556"><tspan fill="#79c0ff">Languages     </tspan><tspan fill="#c9d1d9">: python, java, go, c#, rust, swift</tspan></text>
+      <text x="36" y="556"><tspan fill="#79c0ff">Languages     </tspan><tspan fill="#c9d1d9">: python, java, go, c#, rust, swift, typescript</tspan></text>
       <text x="36" y="584"><tspan fill="#79c0ff">Backend       </tspan><tspan fill="#c9d1d9">: fastapi, django, .NET, spring boot</tspan></text>
       <text x="36" y="612"><tspan fill="#79c0ff">Databases     </tspan><tspan fill="#c9d1d9">: nosql, postgresql, redis, qdrant, vetor db</tspan></text>
       <text x="36" y="640"><tspan fill="#79c0ff">AI            </tspan><tspan fill="#c9d1d9">: langchain, llamaindex, claude code, huggingface</tspan></text>
